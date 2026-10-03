@@ -1,0 +1,3 @@
+data/*.gb
+__pycache__/
+*.pyc
